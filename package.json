@@ -1,0 +1,25 @@
+{
+  "name": "ngc-bot",
+  "version": "1.0.0",
+  "description": "NGC BOT STATS",
+  "main": "mc-server.js",
+  "scripts": {
+    "dev": "node mc-server.js",
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiciu2115/ngc.git"
+  },
+  "author": "wiciu2115/porucznik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiciu2115/ngc/issues"
+  },
+  "homepage": "https://github.com/wiciu2115/ngc#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "request": "^2.88.2"
+  }
+}
